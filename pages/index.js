@@ -13,7 +13,7 @@ export default function Home() {
         <Header title="4deez Big Sexi Site" />
 		<img src="https://i.imgur.com/GeA4VOA.gif"/>
         <p className="description">
-          <a href="steam://connect/50.68.198.123:26901/4deez">Join 7 Days Server Here</a>
+          <a href="steam://connect/50.68.198.123:26901/4deez"><h1> Join 7 Days Server Here</h1></a>
 		<h2> Password = 4deez </h2>
 		<h2> You can also connect using 7days.4deeznuts.xyz as the IP </h2>
 	  	<h3> Open Invites to DBC server and my friends so be friendly yall :) </h3>
