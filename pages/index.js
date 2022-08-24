@@ -1,23 +1,24 @@
 import Head from 'next/head'
 import Header from '@components/Header'
-import Footer from '@components/Footer'
 
 export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>4deez</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="4deez Big Sexi Site" />
+		<img src="https://i.imgur.com/GeA4VOA.gif"/>
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a href="steam://connect/7days.4deez.xyz:26901">Join 7 Days Server Here</a>
+		  
         </p>
+		
       </main>
 
-      <Footer />
     </div>
   )
 }
