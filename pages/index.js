@@ -17,7 +17,10 @@ export default function Home() {
 		<h2> Password = 4deez </h2>
 		<h2> You can also connect using 7days.4deeznuts.xyz as the IP </h2>
 	  	<h3> Open Invites to DBC server and my friends so be friendly yall :) </h3>
-		  
+		<br>
+		<h4 style="color:red"> 300% XP | 160% LOOT | 150% BLOCK DMG | TWITCH CMDS </h4>
+		<br>
+		<h4 style="color:red"> SERVER MODS - SNUFKIN ZOMBS | BIGGER CRAFT QUEUE | 60 SPACE BACKPACK | ALWAYS OPEN TRADER | BUFFED SUPPLY DROPS </H4>
         </p>
 		
       </main>
