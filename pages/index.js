@@ -14,6 +14,7 @@ export default function Home() {
 		<img src="https://i.imgur.com/GeA4VOA.gif"/>
         <p className="description">
           <a href="steam://connect/50.68.198.123:26901">Join 7 Days Server Here</a>
+		<h2> Password = 4deez </h2>
 		  
         </p>
 		
