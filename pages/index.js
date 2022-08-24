@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="4deez Big Sexi Site" />
+        <Header title="Hey You! Ya you! Are you seriously playing 7 Days all by yourself?" />
 		<img src="https://i.imgur.com/GeA4VOA.gif"/>
         <p className="description">
           <a href="steam://connect/50.68.198.123:26901/4deez"><h1> Join 7 Days Server Here</h1></a>
